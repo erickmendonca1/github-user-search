@@ -1,0 +1,40 @@
+* {
+    background-color: #141C30;
+    margin:0
+}
+
+body{
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  header{
+    padding: 10px;
+    color: #fff;
+    text-align: match-parent;
+  }
+
+  main {
+    padding: 30px 50px;
+  }
+  
+  .card{
+    background-color: #1F2A48;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    flex-direction: row-reverse;
+    justify-content: end;
+  }
+
+  button{
+    border: 0px;
+    padding: 10px;
+    outline: 0;
+    background-color:#007AFD;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: bold;
+    transition: all ease 0.3s;
+  
+  }
+  
